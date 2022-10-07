@@ -1,0 +1,58 @@
+#page {
+  width: 80%;
+  margin: 0 auto;
+  background-color: antiquewhite;
+  color: black;
+  padding: 40px;
+  font-family: 'Gothic', '고딕';
+  text-align: center;
+}
+h1{
+  background-color: burlywood;
+}
+
+#bling {
+  font-weight: bolder;
+  font-size: 1.2em;
+}
+
+th{
+  background-color: darkgray;
+  animation: th 2s infinite;
+}
+@keyframes th{
+  from{
+    background-color: aliceblue;
+  }
+}
+
+#listSector {
+  font-size: 13px;
+}
+
+#tableSector{
+  display: flex;
+  justify-content: center;
+}
+
+table{
+  margin: 0px 30px 25px 30px;
+}
+
+table, td, tr, th, thead, tbody{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td{
+  max-width: 600px;
+  min-width: 50px;;
+}
+
+footer{
+  background-color: darkgray;
+  padding: 5px;
+  font-size: 1.5em;
+  color: white;
+  font-weight: bolder;
+}

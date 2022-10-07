@@ -1,0 +1,8 @@
+[submodule "2022_deeplearning_class"]
+	path = 2022_deeplearning_class
+	url = https://github.com/qnffnrl/2022_deeplearning_class.git
+
+[submodule "dog_identifier"]
+	path = Nose_Print
+	url = https://github.com/qnffnrl/dog_identifier.git
+
